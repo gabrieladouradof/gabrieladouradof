@@ -1,6 +1,6 @@
 # Olá, eu sou a Gabriela! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=GabrielaDev&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ggabrieladouradof&color=blue)
 
 ## Sobre mim
 - 🎓 Estudante de Engenharia de Software na Universidade de Brasília
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggabrieladouradof&layout=compact&theme=radical)
+## 📊 Linguagens Mais Usadas:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieladouradof&layout=compact&theme=radical)
 
 ## 🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-dourado-fran%C3%A7a-13ba4022b/)
