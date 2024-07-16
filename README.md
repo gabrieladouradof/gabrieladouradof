@@ -1,4 +1,4 @@
-![Gabriela Dourado](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&lines=Hi,+My+name+is+Laryssa+Felix;Software+engineering+students)
+![Gabriela Dourado](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&lines=Hi,+My+name+is+Gabriela+Dourado;Software+engineering+students)
 
 
 ## Sobre mim
