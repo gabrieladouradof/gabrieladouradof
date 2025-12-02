@@ -3,8 +3,8 @@
 
 ## Sobre mim
 - 🎓 Estudante de Engenharia de Software na Universidade de Brasília
-- 🔭 Atualmente trabalhando em: **Desenvolvimento de Software Back-End e Gamificação**
-- 🌱 Estudando: **C#, .NET, ASP.NET, Flask, MySQL, Entity Framework**
+- 🔭 Atualmente trabalhando em: **Análise de Dados**
+- 🌱 Estudando: **C#, .NET, ASP.NET, Flask, MySQL, Entity Framework, Python, DDD, SQL**
 - 💬 Pergunte-me sobre: **Desenvolvimento Web, Gamificação, Gerenciamento de Projetos e Requisitos**
 
 ## 🚀 Linguagens e Ferramentas:
